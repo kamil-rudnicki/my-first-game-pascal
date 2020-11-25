@@ -1,0 +1,238 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Connect four 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2006-02-03 16:02+0100\n"
+"Last-Translator: Kamil Rudnicki <kamil.rudnicki@gmail.com>\n"
+"Language-Team: Kamil Rudnicki <kamil.rudnicki@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-2\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Polish\n"
+"X-Poedit-Country: POLAND\n"
+"X-Poedit-SourceCharset: iso-8859-2\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-Basepath: ..\\..\\\n"
+"X-Poedit-SearchPath-0: sources\n"
+
+#: sources/CMainWindow.cpp:79
+#: sources/CMainWindow.cpp:127
+#: sources/CMainWindow.cpp:145
+msgid "Help"
+msgstr "Pomoc"
+
+#: sources/CMainWindow.cpp:87
+msgid "Help\\help_en.html"
+msgstr "Help\\help_pl.html"
+
+#: sources/CMainWindow.cpp:93
+msgid "OK"
+msgstr "OK"
+
+#: sources/CMainWindow.cpp:129
+msgid "&About...\tF1"
+msgstr "&O programie\tF1"
+
+#: sources/CMainWindow.cpp:129
+msgid "About the program"
+msgstr "Informacje o programie"
+
+#: sources/CMainWindow.cpp:132
+#: sources/CNewGameWindow.cpp:34
+msgid "New game"
+msgstr "Nowa gra"
+
+#: sources/CMainWindow.cpp:132
+msgid "Start a new game"
+msgstr "Rozpocznij now± grê"
+
+#: sources/CMainWindow.cpp:134
+msgid "Exit\tAlt-X"
+msgstr "Wyj¶cie\tAlt-X"
+
+#: sources/CMainWindow.cpp:134
+msgid "Do you really want to quit?"
+msgstr "Czy napewno chcesz wyj¶æ?"
+
+#: sources/CMainWindow.cpp:137
+msgid "Undo move"
+msgstr "Cofnij ruch"
+
+#: sources/CMainWindow.cpp:137
+msgid "Undo last move"
+msgstr "Cofnij ostatni ruch"
+
+#: sources/CMainWindow.cpp:138
+msgid "Move for me"
+msgstr "Rusz siê za mnie"
+
+#: sources/CMainWindow.cpp:138
+msgid "Do you want to computer move for you?"
+msgstr "Czy napewno chcesz, ¿eby komputer ruszy³ siê za ciebie?"
+
+#: sources/CMainWindow.cpp:140
+msgid "Change language"
+msgstr "Zmieñ jêzyk gry"
+
+#: sources/CMainWindow.cpp:140
+msgid "Change the language"
+msgstr "Zmieñ jêzyk gry"
+
+#: sources/CMainWindow.cpp:143
+msgid "File"
+msgstr "Plik"
+
+#: sources/CMainWindow.cpp:144
+msgid "Options"
+msgstr "Opcje"
+
+#: sources/CMainWindow.cpp:151
+msgid "Welcome!"
+msgstr "Witaj graczu, mi³ego grania!"
+
+#: sources/CNewGameWindow.cpp:26
+msgid "Connect four"
+msgstr "Czwórki"
+
+#: sources/CNewGameWindow.cpp:35
+msgid "Game starts green player"
+msgstr "Grê rozpoczyna gracz zielony"
+
+#: sources/CNewGameWindow.cpp:37
+#: sources/CAboutDialog.cpp:26
+msgid "Ok"
+msgstr "Ok"
+
+#: sources/CNewGameWindow.cpp:38
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: sources/CNewGameWindow.cpp:41
+msgid "Computer - easy"
+msgstr "Komputer - ³atwy"
+
+#: sources/CNewGameWindow.cpp:42
+msgid "Computer - medium"
+msgstr "Komputer - ¶redni"
+
+#: sources/CNewGameWindow.cpp:43
+msgid "Computer - hard"
+msgstr "Komputer - trudny"
+
+#: sources/CNewGameWindow.cpp:44
+msgid "Human"
+msgstr "Cz³owiek"
+
+#: sources/CGameWindow.cpp:83
+#: sources/CGameWindow.cpp:90
+msgid "Error in creating player."
+msgstr "B³±d podczas tworzenia gracza."
+
+#: sources/CGameWindow.cpp:83
+#: sources/CGameWindow.cpp:90
+msgid "Error"
+msgstr "B³±d"
+
+#: sources/CGame.cpp:93
+msgid ""
+"You are good, but not enought to win.\n"
+"It's draw!"
+msgstr ""
+"Jeste¶ dobry, ale nie wystarczaj±co ¿eby wygraæ.\n"
+"Remis!"
+
+#: sources/CGame.cpp:93
+msgid "Draw"
+msgstr "Remis"
+
+#: sources/CPlayerComputer.cpp:41
+msgid "Please wait a moment, I must think..."
+msgstr "Proszê, zaczekaj chwilê, muszê pomy¶leæ..."
+
+#: sources/CPlayerComputer.cpp:43
+msgid "OK, it's your turn!"
+msgstr "Dobra, twoja kolej!"
+
+#: sources/CLanguage.cpp:55
+msgid "Please choose your language:"
+msgstr "Wybierz swój jêzyk:"
+
+#: sources/CLanguage.cpp:56
+msgid "Language"
+msgstr "Jêzyk"
+
+#: sources/CAboutDialog.cpp:24
+msgid "About..."
+msgstr "O programie"
+
+#: sources/CAboutDialog.cpp:38
+msgid "Connect four version 1.0"
+msgstr "Czwórki wersja 1.0"
+
+#: sources/CAboutDialog.cpp:41
+msgid ""
+"(c) 2006 Kamil Rudnicki\n"
+"License: GPL\n"
+"\n"
+"Thanks to:\n"
+" - wxWidgets Team\n"
+" - Tomasz \"SVN\" Kalita\n"
+" - Krzysiek Sornat"
+msgstr ""
+"(c) 2006 Kamil Rudnicki\n"
+"Licencja: GPL\n"
+"\n"
+"Thanks to:\n"
+" - wxWidgets Team\n"
+" - Tomasz \"SVN\" Kalita\n"
+" - Krzysiek Sornat"
+
+#: sources/CAboutDialog.cpp:43
+msgid "http://www.widget.czest.pl"
+msgstr "http://www.widget.czest.pl"
+
+#: sources/CAboutDialog.cpp:44
+msgid "kamil.rudnicki@gmail.com"
+msgstr "kamil.rudnicki@gmail.com"
+
+#: sources/hyperlink.cpp:81
+msgid "Failed to create wxControl, needed by wxHyperLink!"
+msgstr "Failed to create wxControl, needed by wxHyperLink!"
+
+#: sources/hyperlink.cpp:88
+msgid "RED"
+msgstr "RED"
+
+#: sources/hyperlink.cpp:89
+msgid "BLUE"
+msgstr "BLUE"
+
+#: sources/hyperlink.cpp:90
+msgid "PURPLE"
+msgstr "PURPLE"
+
+#: sources/hyperlink.cpp:209
+msgid "http://"
+msgstr "http://"
+
+#: sources/hyperlink.cpp:210
+#: sources/hyperlink.cpp:212
+msgid "text/html"
+msgstr "text/html"
+
+#: sources/hyperlink.cpp:211
+msgid "ftp://"
+msgstr "ftp://"
+
+#: sources/hyperlink.cpp:213
+msgid "mailto:"
+msgstr "mailto:"
+
+#: sources/hyperlink.cpp:214
+msgid "message/rfc822"
+msgstr "message/rfc822"
+
+#: sources/hyperlink.cpp:222
+msgid "file://"
+msgstr "file://"
+
